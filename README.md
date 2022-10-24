@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ana Gallegos</h1>
 <h3 align="center">Curiosity-Driven Data Scientist</h3>
-I come from Economic Sciences but right now I am undergoing a professional reconversion towards the IT sector. I am very curious and love learning new skills.
+I come from Earth Sciences but right now I am rebranding myself as professional reconversion towards Big Data. Curiosity is my engine and I'm always learning.
 
 
 <h3 align="center">Approaches to programming:</h3>
