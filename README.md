@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ana Gallegos</h1>
 <h3 align="center">Curiosity-Driven Data Scientist</h3>
+
 I come from Earth Sciences but right now I am rebranding myself as professional reconversion towards Big Data. Curiosity is my engine and I'm always learning.
 
 
@@ -11,6 +12,7 @@ I come from Earth Sciences but right now I am rebranding myself as professional 
 ✔ Currently doing Women's Bootcamp at Tech: Big Data.
 
 <h4 align="center">Get to know me more:</h4>
+<img align="right" alt="Coding" width="300" src=https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif>
 
 - 🌱 I’m currently learning **Python | Pandas | SQL | R**
 
