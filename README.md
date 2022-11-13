@@ -14,7 +14,7 @@ I come from Earth Sciences but right now I am rebranding myself as professional 
 <h4 align="center">Get to know me more:</h4>
 <img align="right" alt="Coding" width="300" src=https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif>
 
-- 🌱 I’m currently learning **Python | Pandas | SQL | R**
+- 🌱 I’m currently learning **Python | Tableau | SQL | R**
 
 - 📫 How to reach me **agallegosgelabert@gmail.com**
 
