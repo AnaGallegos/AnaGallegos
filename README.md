@@ -19,7 +19,7 @@ I come from Earth Sciences but right now I am rebranding myself as professional 
 - 📫 How to reach me **agallegosgelabert@gmail.com**
 
 - 🗣️ English, Spanish
-- ✨ Other random interests: Rock/Pop/Punk 🎸, Plants! 🪴, Embroidery & Knitting 🧶, sustainability ♻️
+- ✨ Other random interests: Rock/Pop/Punk 🎸, Plants! 🪴, Knitting 🧶, sustainability ♻️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
